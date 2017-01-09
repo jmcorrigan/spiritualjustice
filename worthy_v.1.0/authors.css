@@ -1,0 +1,30 @@
+#container {
+	width: 1200px;
+	font-family: "Arial";
+}
+
+#header {
+		width:1000px;
+		height:100px;
+		font-family: "Arial Black";
+		font-size:40px;
+		text-align:center;
+}
+
+#us {
+
+	width:825px;
+	height:800px;
+	margin-left: 100px;
+}
+
+#scott {
+	width:325px;
+	float:left;
+	margin-right:175px;
+}
+
+#jack {
+	width:325px;
+	float:right;
+}
